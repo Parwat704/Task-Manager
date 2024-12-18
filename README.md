@@ -1,26 +1,3 @@
-# Task-Manager
-A simple and intuitive Task Management application built using Flask and SQLAlchemy, featuring functionalities to create, update, complete, and delete tasks. The app uses an SQLite database for storage and provides a clean user interface for seamless interaction.
-Features
-Add new tasks with a title and description.
-View all tasks in a structured list.
-Mark tasks as complete.
-Edit existing tasks (title and description).
-Delete tasks permanently.
-
-Technologies Used
-Flask (web framework).
-SQLAlchemy (Object Relational Mapper for database interactions).
-SQLite (lightweight database for data storage).
-HTML & CSS (for front-end design).
-
-Installation Instructions
-Clone the repository from GitHub.
-Set up a virtual environment and activate it.
-Install the required dependencies from the requirements.txt file.
-Run the application and access it through your web browser.
-
-
-Here’s the README.md without any code:
 
 Task Management App
 A simple and intuitive Task Management application built using Flask and SQLAlchemy, featuring functionalities to create, update, complete, and delete tasks. The app uses an SQLite database for storage and provides a clean user interface for seamless interaction.
